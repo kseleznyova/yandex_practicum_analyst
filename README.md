@@ -1,7 +1,7 @@
 # Проектные работы из Яндекс.Практикума по направлению Аналитик данных +
 ## Основные инструменты:
 - Языки: Python, SQL;
-- Библиотеки: pandas, scipy, pymystem3, requests, json, IPython, BeautifulSoup;
+- Библиотеки: pandas, scipy, numpy, pymystem3, requests, json, IPython, BeautifulSoup;
 - Визуализация: matplotlib, plotly, seaborn, Tableau.
 ### *[Ссылка на портфолио в Tableau](https://public.tableau.com/app/profile/.65851822)*
 ## Проекты
